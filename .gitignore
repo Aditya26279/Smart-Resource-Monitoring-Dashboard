@@ -1,0 +1,108 @@
+# ===============================
+
+# Java / JVM
+
+# ===============================
+
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# ===============================
+
+# Maven
+
+# ===============================
+
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# ===============================
+
+# Gradle
+
+# ===============================
+
+.gradle/
+build/
+gradle-app.setting
+!gradle-wrapper.jar
+!gradle-wrapper.properties
+
+# ===============================
+
+# Logs
+
+# ===============================
+
+logs/
+*.log
+
+# ===============================
+
+# IDE - IntelliJ IDEA
+
+# ===============================
+
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# ===============================
+
+# IDE - Eclipse
+
+# ===============================
+
+.project
+.classpath
+.settings/
+.metadata/
+
+# ===============================
+
+# IDE - VS Code
+
+# ===============================
+
+.vscode/
+
+# ===============================
+
+# OS Files
+
+# ===============================
+
+.DS_Store
+Thumbs.db
+
+# ===============================
+
+# Environment / Config
+
+# ===============================
+
+.env
+.env.local
+application-local.properties
+application-dev.properties
+
+# ===============================
+
+# Temporary Files
+
+# ===============================
+
+tmp/
+temp/
+*.tmp
+*.swp
